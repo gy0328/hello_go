@@ -1,0 +1,4 @@
+mode: set
+_\e_\goWorkspaces\hello_go\lib\lib.go:2.29,5.2 2 1
+_\e_\goWorkspaces\hello_go\lib\lib.go:10.30,11.22 1 0
+_\e_\goWorkspaces\hello_go\lib\lib.go:11.22,13.3 1 0
